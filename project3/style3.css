@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  
+  background-color: azure;
+  display: grid;
+  margin-top: 400px;
+  margin-left: 300px;
+  margin-right: 200px;
+ 
+
+
+}
+body{
+  background-color: aqua;
+
+}
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 15px;
+  
+ 
+}
+.title{ 
+  margin: 23px 0px;
+  font-size: 30px;
+  background-color: aquamarine;
+}

@@ -1,0 +1,46 @@
+
+
+
+.container{
+
+
+    width: 500px;
+    height: 300px;
+    background-color: rgb(20, 17, 15);
+    display: grid;
+    border-radius: 20px;
+    margin-top: 300px;
+    margin-left: 300px;
+}
+ul h1{
+    font-size: 25px;
+    color: aliceblue;
+    margin-bottom: 60px;
+}
+.card ul h1{
+   
+    color: aliceblue;
+    margin: 0;
+    
+    
+}
+.card ul h5{
+ 
+    color: aliceblue;
+    font-size: 25px;
+    -
+    
+   
+    
+}
+.card ul h6{
+    font-size: 30px;
+    display: inline;
+    color: aliceblue;
+
+}
+
+
+    
+    
+   
