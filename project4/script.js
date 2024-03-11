@@ -19,6 +19,7 @@ myFunction( " love js");*/
 
 
 let str ="JavaScript"
+console.log(str)
 
 
 
