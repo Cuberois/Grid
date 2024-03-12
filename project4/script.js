@@ -20,7 +20,40 @@ myFunction( " love js");*/
 
 let str ="JavaScript"
 console.log(str)
+ 
+//class & object syntax
+ class MyClass{
 
+
+    constructor(){}
+
+
+    myMethod(){}
+ 
+ }
+
+ let myobj =new MyClass()
+
+
+
+
+
+
+
+
+//example class and object
+ 
+class ToyotaCar {
+    start() {
+        console.log("start");
+    }
+
+    stop(){
+        console.log("stop");
+    }
+}
+
+let fortuner = new ToyotaCar();
 
 
 
