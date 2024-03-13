@@ -1,3 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Array syntax
 
 let companies =["bloodery", "microsoft","uber","google","ibm","netflix"]
@@ -36,11 +57,6 @@ console.log(str)
 
 
 
-
-
-
-
-
 //example class and object
  
 class ToyotaCar {
@@ -54,6 +70,12 @@ class ToyotaCar {
 }
 
 let fortuner = new ToyotaCar();
+
+
+//get elemmentBy id()
+
+
+
 
 
 
