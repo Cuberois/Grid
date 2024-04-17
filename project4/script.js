@@ -57,12 +57,47 @@
 //Numbers//
  
 
-const x = 56.6559867645;
-x;
-const y = x.toFixed(2);
-y;
+// const x = 56.6559867645;
+// x;
+// const y = x.toFixed(2);
+// y;
 
 
+
+//                                       Datatypes in Node.js                    //
+
+// Variable store number data type
+// let a = 35;
+// console.log(typeof a);
+
+// // number 
+// a = "GeeksforGeeks";
+// console.log(typeof a);
+
+// // string
+// a = true;
+// console.log(typeof a);
+
+// // boolean
+// a = undefined;
+// console.log(typeof a);
+// // undefined
+
+
+//    objects and function
+
+let company = {
+	Name: "nikhil",
+	Address: "chandigarh",
+	Contact: "+919876543210",
+	Email: "nikhilsharma787683@gmail.com",
+};
+
+// Display the object information
+console.log("Information of variable company:", company);
+
+// Display the type of variable
+console.log("Type of variable company:", typeof company);
 
 
 
