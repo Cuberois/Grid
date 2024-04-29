@@ -23,6 +23,8 @@
 // console.log(str)
  
 // //class & object syntax
+
+
 //  class MyClass{
 
 
@@ -66,7 +68,7 @@
 
 //                                       Datatypes in Node.js                    //
 
-// Variable store number data type
+
 // let a = 35;
 // console.log(typeof a);
 
@@ -86,22 +88,30 @@
 
 //    objects and function
 
-let company = {
-	Name: "nikhil",
-	Address: "chandigarh",
-	Contact: "+919876543210",
-	Email: "nikhilsharma787683@gmail.com",
-};
+// let company = {
+// 	Name: "nikhil",
+// 	Address: "chandigarh",
+// 	Contact: "+919876543210",
+// 	Email: "nikhilsharma787683@gmail.com",
+// };
 
-// Display the object information
-console.log("Information of variable company:", company);
+// // Display the object information
+// console.log("Information of variable company:", company);
 
-// Display the type of variable
-console.log("Type of variable company:", typeof company);
-
-
+// // Display the type of variable
+// console.log("Type of variable company:", typeof company);
 
 
+// DOM/// document object model//we can completely control any html document with javascript//
 
+
+var headertitle = document.getElementById('header-title')
+
+headertitle.textContent = 'computerscience';
+
+
+var header = docment.getElementById('header');
+
+header.style.borderBotttom = '10px solid #000';
 
 
