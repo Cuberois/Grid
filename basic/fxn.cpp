@@ -22,6 +22,7 @@ int main()
 {
     over ob; //object is define 
     ob.display(10);
+    ob.display(10,20);
     return 0;
 
 }
