@@ -1,4 +1,43 @@
-.wrapper {
-    background-color: blue;
+*{
+   margin: 0;
+}
 
+.box {
+    background-color: rgb(46, 46, 51);
+    height: 13cm;
+    width: 11cm;
+    align-items: center;
+    margin: 100px 200px 100px;
+    border-radius: 20px;
+}
+ .box .title {
+
+    font-size: 5vb;
+    color: aliceblue;
+    text-align: center;
+
+ }
+
+ .box .row input {
+    background-color: aquamarine;
+    height: 45px;
+    outline: none;
+    padding-left: 60px;
+    border-radius: 5px;
+    border: 1px solid whitesmoke;
+    font-size: 16px;
+    margin: 50px 60px ;
+ }
+
+.box .row{
+    height: 45px;
+    margin-bottom: 15px;
+
+}
+.box .pass {
+    margin: 60px;
+}
+.box button input{
+    background-color: brown;
+    
 }
