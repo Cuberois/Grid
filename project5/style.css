@@ -6,9 +6,11 @@
     background-color: rgb(46, 46, 51);
     height: 13cm;
     width: 11cm;
-    align-items: center;
-    margin: 100px 200px 100px;
     border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
  .box .title {
 
