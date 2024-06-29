@@ -30,15 +30,23 @@
 
 // how to create an object
 
-const app = new Object // first to create an object
+// const app = new Object // first to create an object
                      
-const nwapp = {}      // second way to create an object
+// const nwapp = {}      // second way to create an object
 
-nwapp.id="name "
-nwapp.age="22"                             //insert elements
-nwapp.email="nikhilsharma787683@gamil"
+// nwapp.id="name "
+// nwapp.age="22"                             //insert elements
+// nwapp.email="nikhilsharma787683@gamil"
 
-console.log(nwapp);
+// console.log(nwapp);
 
 
 
+//object desturcturing
+
+const ob = {
+    name : "nikhil"
+}
+
+const{name : nikhilsharma} = ob
+console.log(nikhilsharma)
