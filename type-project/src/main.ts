@@ -6,8 +6,10 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     
     <div class="card">
       <button id="counter" type="button"></button>
+      
     </div>
-    <button>click me</button>
+   
+    <button>click me</button> 
   </div>
 
 
